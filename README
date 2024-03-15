@@ -5,5 +5,5 @@ UEsDBBQAAAAAABBP9FZKCwBDJwAAACcAAAAHAAAAUHJvLmtleTJzR1B4Z0RJbllDZTBvM2U2dFdlcnAz
 2 - Paste it into https://emn178.github.io/online-tools/base64_decode_file.html
 3 - Download as Custom.mxtpro
 4 - Place it into same directory as MobaXTerm.
-
+Note: To check the MobaXterm directory, go to setting --> Persistent Home Directory (if set as _MyDocuments_\MobaXterm\home, place the file in _MyDocuments_\MobaXterm\ )
 https://download.mobatek.net/2062020111930940/MobaXterm_Installer_v20.6.zip
